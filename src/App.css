@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 20px;
+}
+
